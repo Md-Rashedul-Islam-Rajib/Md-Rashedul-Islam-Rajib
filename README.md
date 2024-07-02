@@ -6,7 +6,7 @@
 A MERN stack developer can serve some purposes and can contribute to the real world. I am developing tools with the mindset of its serving purpose tuning with passions and creativity. My deep passion for programming keeps me engaged in JavaScript, ReactJs, NodeJs, ExpressJs & MongoDB. I avidly follow the latest developments in the tech world through blogs, podcasts, and YouTube channels, and I enjoy experimenting with new technologies in my personal projects. Additionally, I dedicate time to mentoring aspiring developers, helping them grasp programming fundamentals and navigate their projects successfully.
 
 Feel free to contract with me: 
-Phone: +8801303050669 (Whatsapp)
+Phone: +8801303050669 (Whatsapp) <br />
 Email: rajib5570@gmail.com
 
 Skills:  REACT / JS / MONGODB / FIREBASE / HTML / CSS / TAILWIND CSS
