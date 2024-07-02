@@ -23,7 +23,7 @@ Skills:  REACT / JS / MONGODB / FIREBASE / HTML / CSS / TAILWIND CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Rashedul-Islam-Rajib&show_icons=true&count_private=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/Md-Rashedul-Islam-Rajib)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Rashedul-Islam-Rajib)  
 
