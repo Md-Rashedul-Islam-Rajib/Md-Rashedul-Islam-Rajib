@@ -1,4 +1,7 @@
 ![I am Front End Developer](https://i.ibb.co/Xpm5Hpf/banner.png)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashedul+Islam+Rajb!;+Front+End+Developer+from+Bangladesh" />
+</h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Md-Rashedul-Islam-Rajib.Md-Rashedul-Islam-Rajib" />
 
