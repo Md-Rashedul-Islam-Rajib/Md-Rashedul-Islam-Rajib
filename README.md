@@ -1,4 +1,6 @@
 ![I am Front End Developer](https://i.ibb.co/Xpm5Hpf/banner.png)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Md-Rashedul-Islam-Rajib.Md-Rashedul-Islam-Rajib" />
 ### Hi there 👋, My Name is Md Rashedul Islam Rajib
 ##### I am Front End Developer
 
