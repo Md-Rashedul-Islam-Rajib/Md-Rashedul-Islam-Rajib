@@ -38,7 +38,7 @@ Skills:  REACT / JS / MONGODB / FIREBASE / HTML / CSS / TAILWIND CSS
 
 
 <div align="center">
-  <h2>🐍 My Contribution 🐍</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib/output/github-contribution-grid-snake-dark.svg" />
   
