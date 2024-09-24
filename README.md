@@ -20,7 +20,7 @@ Email: rajib5570@gmail.com
 
 Skills:  REACT / JS / MONGODB / FIREBASE / HTML / CSS / TAILWIND CSS
 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning TypeScript and Next.Js
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with learn in depth backend technologies 
 
