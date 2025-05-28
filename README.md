@@ -56,7 +56,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 ## 🌟 Featured Projects
 
 <!-- Replace with your actual project cards -->
-<div align="center">https://github.com/khaledssbd/SwiftCart
+<div align="center">
   <a href="#">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical" />
   </a>
