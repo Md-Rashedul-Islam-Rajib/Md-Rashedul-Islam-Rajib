@@ -1,57 +1,89 @@
-![I am Front End Developer](https://i.ibb.co/Xpm5Hpf/banner.png)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashedul+Islam+Rajib!;+Front+End+Developer+from+Bangladesh+🇧🇩" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38bdf8&center=true&vCenter=true&width=1000&lines=Hello+World!+👋;I'm+Rashedul+Islam+Rajib;Full-Stack+Web+Developer+from+Bangladesh+🇧🇩" />
 </h1>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Md-Rashedul-Islam-Rajib.Md-Rashedul-Islam-Rajib" />
-
-
-<br />
-
-
-
-🚀 Passionate Web Developer  
----
-
-As a Full Stack Web Developer, I build purposeful and user-centric applications that contribute to real-world needs. With a strong foundation in **JavaScript**, **React**, **Node.js**, and **MongoDB**, I have expanded my expertise into modern technologies like **TypeScript**, **Next.js**, **Redux**, **PostgreSQL**, and **Prisma**.
-
-💡 I’m driven by a passion for clean code, continuous learning, and solving real-world problems through web technologies. I stay updated with the latest trends through blogs, podcasts, and developer communities, and I love experimenting with new tools in my personal projects.
-
-🎯 I'm also committed to **mentoring new developers**, helping them grasp core programming concepts and build confidence through hands-on project guidance.
-
----
-
-📬 **Feel free to reach out**  
-- 📱 WhatsApp: +8801303050669  
-- 📧 Email: [rajib5570@gmail.com](mailto:rajib5570@gmail.com)
-
----
-
-🧠 **Currently Exploring & Learning**  
-
-+ C++
-+ React Native 
-+ Python
-+ Drizzle ORM
-  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Rashedul-Islam-Rajib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashedul-islam-rajib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rashedulislamrajj)  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rashedul-Islam-Rajib&show_icons=true&theme=transparent&layout=compact" alt="Top Languages" style="flex: 1;">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Rashedul-Islam-Rajib&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Rashedul-Islam-Rajib)  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Rashedul-Islam-Rajib&label=Profile+Views&color=0e75b6&style=flat" alt="Md-Rashedul-Islam-Rajib" />
+</p>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
+  <img width="100%" src="https://i.ibb.co/Xpm5Hpf/banner.png" alt="Front End Developer Banner" />
+</div>
+
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Developer** with expertise in building modern web applications. My journey in web development combines technical skills with a strong focus on creating intuitive user experiences.
+
+- 🔭 Currently working on **Next.js e-commerce platforms**
+- 🌱 Learning **React Native & Python**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **React, TypeScript, or database optimization**
+- 📫 How to reach me: **rajib5570@gmail.com**
+
+## 🛠 Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Md-Rashedul-Islam-Rajib&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Rashedul-Islam-Rajib&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rashedul-Islam-Rajib&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+## 🌟 Featured Projects
+
+<!-- Replace with your actual project cards -->
+<div align="center">
+  <a href="#">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Rashedul-Islam-Rajib&repo=your-repo&theme=radical" />
+  </a>
+  <a href="#">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Rashedul-Islam-Rajib&repo=your-repo&theme=radical" />
+  </a>
+</div>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashedul-islam-rajib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801303050669">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:rajib5570@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/Rashedulislamrajj">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib/output/github-contribution-grid-snake-dark.svg" />
 </div>
