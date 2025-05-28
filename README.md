@@ -57,7 +57,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
   </div>
 
   
-  <br><br><br><br><br><br><br><br><br>
+  <br><br>
 <div align=center>
     <a href="https://github.com/Md-Rashedul-Islam-Rajib/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Md-Rashedul-Islam-Rajib&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
@@ -66,7 +66,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Md-Rashedul-Islam-Rajib&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
+<br><br><br>  <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Rashedul-Islam-Rajib&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
