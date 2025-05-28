@@ -53,6 +53,12 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Md-Rashedul-Islam-Rajib&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Rashedul-Islam-Rajib&theme=radical&hide_border=true" />
 </div>
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rashedul-Islam-Rajib&layout=compact&theme=radical&hide_border=true" />
