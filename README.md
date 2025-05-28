@@ -95,5 +95,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
   <img src="https://raw.githubusercontent.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
 
