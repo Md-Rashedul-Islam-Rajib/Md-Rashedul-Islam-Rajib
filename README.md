@@ -10,19 +10,30 @@
 
 
 
-A MERN stack developer can serve some purposes and can contribute to the real world. I am developing tools with the mindset of its serving purpose tuning with passions and creativity. My deep passion for programming keeps me engaged in JavaScript, ReactJs, NodeJs, ExpressJs & MongoDB. I avidly follow the latest developments in the tech world through blogs, podcasts, and YouTube channels, and I enjoy experimenting with new technologies in my personal projects. Additionally, I dedicate time to mentoring aspiring developers, helping them grasp programming fundamentals and navigate their projects successfully.
+🚀 Passionate MERN Stack & Frontend Developer  
+---
 
+As a MERN Stack Developer, I build purposeful and user-centric applications that contribute to real-world needs. With a strong foundation in **JavaScript**, **React**, **Node.js**, and **MongoDB**, I have expanded my expertise into modern technologies like **TypeScript**, **Next.js**, **Redux**, **PostgreSQL**, and **Prisma**.
 
+💡 I’m driven by a passion for clean code, continuous learning, and solving real-world problems through web technologies. I stay updated with the latest trends through blogs, podcasts, and developer communities, and I love experimenting with new tools in my personal projects.
 
-Feel free to contract with me: <br />
-Phone: +8801303050669 (Whatsapp) <br />
-Email: rajib5570@gmail.com
+🎯 I'm also committed to **mentoring new developers**, helping them grasp core programming concepts and build confidence through hands-on project guidance.
 
-Skills:  REACT / JS / MONGODB / FIREBASE / HTML / CSS / TAILWIND CSS
+---
 
-- 🌱 I’m currently learning TypeScript and Next.Js
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with learn in depth backend technologies 
+📬 **Feel free to reach out**  
+- 📱 WhatsApp: +8801303050669  
+- 📧 Email: [rajib5570@gmail.com](mailto:rajib5570@gmail.com)
+
+---
+
+🧠 **Currently Exploring & Learning**  
+
++ C++
++ React Native 
++ Python
++ Drizzle ORM
+  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Rashedul-Islam-Rajib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashedul-islam-rajib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rashedulislamrajj)  
