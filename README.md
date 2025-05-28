@@ -10,10 +10,10 @@
 
 
 
-🚀 Passionate MERN Stack & Frontend Developer  
+🚀 Passionate Web Developer  
 ---
 
-As a MERN Stack Developer, I build purposeful and user-centric applications that contribute to real-world needs. With a strong foundation in **JavaScript**, **React**, **Node.js**, and **MongoDB**, I have expanded my expertise into modern technologies like **TypeScript**, **Next.js**, **Redux**, **PostgreSQL**, and **Prisma**.
+As a Full Stack Web Developer, I build purposeful and user-centric applications that contribute to real-world needs. With a strong foundation in **JavaScript**, **React**, **Node.js**, and **MongoDB**, I have expanded my expertise into modern technologies like **TypeScript**, **Next.js**, **Redux**, **PostgreSQL**, and **Prisma**.
 
 💡 I’m driven by a passion for clean code, continuous learning, and solving real-world problems through web technologies. I stay updated with the latest trends through blogs, podcasts, and developer communities, and I love experimenting with new tools in my personal projects.
 
