@@ -56,12 +56,12 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 ## 🌟 Featured Projects
 
 <!-- Replace with your actual project cards -->
-<div align="center">
+<div align="center">https://github.com/khaledssbd/SwiftCart
   <a href="#">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Rashedul-Islam-Rajib&repo=your-repo&theme=radical" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical" />
   </a>
   <a href="#">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Rashedul-Islam-Rajib&repo=your-repo&theme=radical" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=ThinkGreenly&theme=radical" />
   </a>
 </div>
 
