@@ -49,26 +49,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Md-Rashedul-Islam-Rajib&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Rashedul-Islam-Rajib&theme=radical&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rashedul-Islam-Rajib&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-## 🌟 Featured Projects
-
-<!-- Replace with your actual project cards -->
-<div align="center">
-  <a href="#">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical" />
-  </a>
-  <a href="#">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=ThinkGreenly&theme=radical" />
-  </a>
-</div>
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/Md-Rashedul-Islam-Rajib/github-readme-streak-stats" title="Go to Source">
@@ -88,6 +68,19 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Rashedul-Islam-Rajib&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+## 🌟 Featured Projects
+
+<!-- Replace with your actual project cards -->
+<div align="center">
+  <a href="#">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical" />
+  </a>
+  <a href="#">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=ThinkGreenly&theme=radical" />
+  </a>
+</div>
+
 
 
 
